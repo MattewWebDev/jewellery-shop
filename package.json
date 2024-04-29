@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "sass": "^1.75.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
